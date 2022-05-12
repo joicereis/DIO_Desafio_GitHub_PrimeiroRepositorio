@@ -1,0 +1,4 @@
+comando + arquivo de texto
+$ openssl sha1 teste.txt
+
+
